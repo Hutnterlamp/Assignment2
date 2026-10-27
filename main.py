@@ -53,7 +53,7 @@ def coffee_cost_per_year(coffee_cost):
 # ---- PROGRAM ----
 
 def main():
-    annual_cost = float(input("Enter the annual cost of college: "))
+    annual_cost (input("Enter the annual cost of college: "))
     credits = float(input("Enter the credits this semester: "))# Then ask for the credits this semester.
 
     while True:
